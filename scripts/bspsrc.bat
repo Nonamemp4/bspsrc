@@ -1,2 +1,2 @@
 @echo off
-start javaw -jar "%~dp0\bspsrc.jar" %*
+start java -jar "%~dp0\bspsrc.jar" %*
