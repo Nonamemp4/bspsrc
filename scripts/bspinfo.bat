@@ -1,2 +1,2 @@
 @echo off
-start javaw -cp bspsrc.jar info.ata4.bspinfo.gui.BspInfoFrame %*
+start java -cp bspsrc.jar info.ata4.bspinfo.gui.BspInfoFrame %*
